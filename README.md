@@ -1,1 +1,2 @@
 # ISO-Group-Project
+Go to [Mermaid Live Editor](https://mermaid.live/edit#pako:eNpVjc1ugzAQhF_F2lMrkYh_Jz5UakibS6T2kFMhByssGDXYyBilKfDuNURR2zntaL6Z7eGkcgQGxVldToJrQw7bTBKr5zQRumpNzdsjWSyehh0aUiuJ14FsHnaKtEI1TSXLxxu_mSCS9PsJQ2JEJT_HW5TM_TeJA9mme94Y1Rz_JoeLGshLWr0LO_8_ERpt6zUtOCv44sQ1SbieEXCg1FUOzOgOHahR13yy0E9pBkZgjRkwe-ZY8O5sMsjkaGsNlx9K1femVl0pwM6fW-u6JucGtxUvNf9FUOaoE9VJA8wL5glgPXwB86m_XHlRGK1jL4wjGjtwBRa6y8DzQ7r2A38V0IiODnzPP93likaulR-7lLp-FIw_xJp2og) and paste the chart generate code within **`chart/`** directory to see the result.
